@@ -1,0 +1,8 @@
+[
+  {"Name": "Loonboss on Giant Cave Squig",
+    "Move": 8, "Toughness": 5, "Wounds": 26, "Points": 285, "Runemarks": "GLOOMSPITE, HERO, ELITE, FLY"},
+  {"Name": "Moonclan Boss",
+    "Move": 4, "Toughness": 4, "Wounds": 12, "Points": 110, "Runemarks": "GLOOMSPITE, HERO"},
+  {"Name": "Loonboss",
+    "Move": 4, "Toughness": 4, "Wounds": 16, "Points": 135, "Runemarks": "GLOOMSPITE, HERO, CHAMPION"}
+]
